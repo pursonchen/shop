@@ -1,4 +1,4 @@
-
+#这是一个thinkjs的商城应用 
 Application created by [ThinkJS](http://www.thinkjs.org)
 
 ## Install dependencies
